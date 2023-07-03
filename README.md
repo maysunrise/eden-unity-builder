@@ -4,11 +4,12 @@ Eden World Builder fan-made recreation for Android and PC
 ### Status:
 The project is not actively developed anymore, so I'll just leave this repo here.
 This is very buggy and has bad performance due to the unfinished voxel core.
+Some code snippets are several years old.
 
 Version of Unity to run is 2020.1.1f, should be ok on newer ones.
 
 I will probably consider pull requests,
-but only those that fix existing code or add features from the ORIGINAL version.
+but only those that fix existing/refactoring code or add features from the ORIGINAL version.
 Porting of Obj-C/C++ to C# is also accepted.
 
 ### Finished features:
